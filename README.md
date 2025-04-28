@@ -20,13 +20,13 @@ A C implementation of the Marching Squares algorithm for generating contours fro
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mihai1923/marching_squares
-   cd marching_squares
+   git clone https://github.com/mihai1923/marching-squares
+   cd marching-squares
    ```
 
 2. Compile the code:
     ```shell
-    gcc marching_squares.c -o marching_squares
+    gcc marching-squares.c -o marching-squares
     ```
 
 ## Usage
